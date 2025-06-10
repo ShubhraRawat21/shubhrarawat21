@@ -12,7 +12,7 @@ Cloud: Azure, AWS
 
 I’m always eager to learn new technologies and best practices. Currently exploring:
 
-Microservices architecture
+Spring security
 
 Cloud-native development
 
