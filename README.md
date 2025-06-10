@@ -11,8 +11,11 @@ Cloud: Azure, AWS
 🌱 Continuous Learning:
 
 I’m always eager to learn new technologies and best practices. Currently exploring:
+
 Microservices architecture
+
 Cloud-native development
+
 DevOps practices
 
 📫 Let's Connect:
